@@ -8,3 +8,5 @@ Le programme est un jeu de Morpion sur le terminal qui se joue à deux. Il :
 - Si un joueur gagne, il affiche qui a gagné.
 - Si il y a match nul, le programme l'annonce.
 
+Entrer la commande $ ruby game.rb pour lancer le jeu !
+
