@@ -1,7 +1,10 @@
-Morpion de loundness et alexys
+# Jeu de Morpion 
+ Par loundness et alexys
 
-Création du programme qui demande le prénom des joueurs.
+Le programme est un jeu de Morpion sur le terminal qui se joue à deux. Il :
 
-Le programme demande au joueur un numéro et le programme affiche sa position sur le plateau.
+- Commence en demandant le prénom des joueurs.
+- Affiche le plateau à chaque tour, et demande dans quelle case est-ce que le joueur veut jouer.
+- Si un joueur gagne, il affiche qui a gagné.
+- Si il y a match nul, le programme l'annonce.
 
-Le programme annonce le joueur qui gagne ou s'il y a match nul.
